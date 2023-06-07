@@ -21,3 +21,5 @@ And hidden files (starting with .)
 
 Task 6
 
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+
